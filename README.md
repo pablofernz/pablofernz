@@ -33,7 +33,6 @@
 <p>
   <img src='https://cdn.worldvectorlogo.com/logos/nextjs-2.svg' width=40 height=40/>
   <img src='https://cdn.worldvectorlogo.com/logos/firebase-1.svg' width=40 height=40/>
-  <img src='https://cdn.worldvectorlogo.com/logos/next-js.svg' width=40 height=40/>
   <img src='https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg' width=40 height=40/>
   <img src='https://cdn.worldvectorlogo.com/logos/framer-motion.svg' width=40 height=40/>
   
