@@ -1,6 +1,4 @@
-<div align="center">
-<h1>console.log("Hello, World!")</h1>
-</div>
+## console.log("Hello, World!")
 
 <h2>Mi nombre es Pablo Fernández, aqui en GitHub soy pablofernz</h2>
 
