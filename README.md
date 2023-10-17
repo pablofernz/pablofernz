@@ -28,7 +28,7 @@
 
 #### Tambien estoy aprendiendo:
 <p>
-  <img src='https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png' width=40 height=40/>
+  <img src='https://images.ctfassets.net/23aumh6u8s0i/c04wENP3FnbevwdWzrePs/1e2739fa6d0aa5192cf89599e009da4e/nextjs' width=40 height=40/>
   <img src='https://cdn.worldvectorlogo.com/logos/firebase-1.svg' width=40 height=40/>
   <img src='https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg' width=40 height=40/>
   <img src='https://cdn.worldvectorlogo.com/logos/framer-motion.svg' width=40 height=40/>
