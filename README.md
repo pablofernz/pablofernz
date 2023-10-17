@@ -10,7 +10,7 @@
 <h1>¿A qué me dedico actualmente?</h1>
 <p>Actualmente hago proyectos que me permitan seguir con mi formacion de programador, aprendiendo nuevas tecnologías y aplicandolas. </p>
 
-### Las tecnologías que utilizo cotidianamente son:
+### Tech skills:
 <p>
   <img src='https://cdn.worldvectorlogo.com/logos/logo-javascript.svg' width=40 height=40/>
   <img src='https://cdn.worldvectorlogo.com/logos/html-1.svg' width=40 height=40/>
@@ -28,7 +28,7 @@
 
 #### Tambien estoy aprendiendo:
 <p>
-  <img src='https://cdn.worldvectorlogo.com/logos/nextjs-2.svg' width=40 height=40/>
+  <img src='https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png' width=40 height=40/>
   <img src='https://cdn.worldvectorlogo.com/logos/firebase-1.svg' width=40 height=40/>
   <img src='https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg' width=40 height=40/>
   <img src='https://cdn.worldvectorlogo.com/logos/framer-motion.svg' width=40 height=40/>
