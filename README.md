@@ -18,7 +18,7 @@
   <img src='https://cdn.worldvectorlogo.com/logos/redux.svg' width=40 height=40/>
   <img src='https://cdn.worldvectorlogo.com/logos/nodejs-1.svg' width=40 height=40/>
   <img src='https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg' width=40 height=40/>
-  <img src='https://google.github.io/sqlcommenter/images/sequelize-logo.png' width=40 height=40/>
+  <img src='https://cdn.freebiesupply.com/logos/large/2x/sequelize-logo-png-transparent.png' width=40 height=40/>
   <img src='https://cdn.worldvectorlogo.com/logos/postgresql.svg' width=40 height=40/>
   <img src='https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg' width=40 height=40/>
   <img src='https://cdn.worldvectorlogo.com/logos/mongoose-1.svg' width=40 height=40/>
