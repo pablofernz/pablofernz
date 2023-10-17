@@ -1,4 +1,4 @@
-## console.log("Hello, World!")
+# console.log("Hello, World!")
 
 <p>Mi nombre es Pablo Fernández, aqui en GitHub soy pablofernz</p>
 
@@ -10,7 +10,7 @@
 <h1>¿A qué te dedicas actualmente?</h1>
 <p>Actualmente hago proyectos que me permitan seguir con mi formacion de programador, aprendiendo nuevas tecnologías y aplicandolas. </p>
 
-### Las tecnologías que utilizo cotidianamente son:
+## Las tecnologías que utilizo cotidianamente son:
 <p>
   <img src='https://cdn.worldvectorlogo.com/logos/logo-javascript.svg' width=40 height=40/>
   <img src='https://cdn.worldvectorlogo.com/logos/html-1.svg' width=40 height=40/>
