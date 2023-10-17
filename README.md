@@ -15,7 +15,7 @@
   <img src='https://cdn.worldvectorlogo.com/logos/logo-javascript.svg' width=40 height=40/>
   <img src='https://cdn.worldvectorlogo.com/logos/html-1.svg' width=40 height=40/>
   <img src='https://cdn.worldvectorlogo.com/logos/css-3.svg' width=40 height=40/>
-   <img src='https://cdn.worldvectorlogo.com/logos/git-icon.svg' width=40 height=40/>
+  <img src='https://cdn.worldvectorlogo.com/logos/git-icon.svg' width=40 height=40/>
   <img src='https://cdn.worldvectorlogo.com/logos/react-2.svg' width=40 height=40/>
   <img src='https://cdn.worldvectorlogo.com/logos/redux.svg' width=40 height=40/>
   <img src='https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg' width=40 height=40/>
@@ -26,7 +26,7 @@
   <img src='https://i.ibb.co/pKB0hfr/mongoose-1-logo-png-transparent.png' width=40 height=40/> 
 </p>
 
- ### Tambien estoy aprendiendo:
+#### Tambien estoy aprendiendo:
 <p>
   <img src='https://cdn.worldvectorlogo.com/logos/nextjs-2.svg' width=40 height=40/>
   <img src='https://cdn.worldvectorlogo.com/logos/firebase-1.svg' width=40 height=40/>
