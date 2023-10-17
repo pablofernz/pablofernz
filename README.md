@@ -7,10 +7,10 @@
 
 <p>También me apasiona todo lo relacionado con el apartado visual, tengo conocimientos en diseño gráfico por lo que puedo "expresarme" con mayor facilidad y aunque tenga cierta afinidad con el desarrollo Front-End, también me gusta mucho el desarrollo Back-End. </p>
 
-<h1>¿A qué te dedicas actualmente?</h1>
+<h1>¿A qué me dedico actualmente?</h1>
 <p>Actualmente hago proyectos que me permitan seguir con mi formacion de programador, aprendiendo nuevas tecnologías y aplicandolas. </p>
 
-## Las tecnologías que utilizo cotidianamente son:
+### Las tecnologías que utilizo cotidianamente son:
 <p>
   <img src='https://cdn.worldvectorlogo.com/logos/logo-javascript.svg' width=40 height=40/>
   <img src='https://cdn.worldvectorlogo.com/logos/html-1.svg' width=40 height=40/>
