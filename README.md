@@ -1,6 +1,6 @@
 ## console.log("Hello, World!")
 
-<h2>Mi nombre es Pablo Fernández, aqui en GitHub soy pablofernz</h2>
+<h3>Mi nombre es Pablo Fernández, aqui en GitHub soy pablofernz</h3>
 
 <h1> Un poco de mi:</h1>
 <p>Soy de Argentina, tengo 20 años y aunque de niño me gustaban los videojuegos no me llamaba mucho la atención la programación ni nada por el estilo. Años mas tarde me encontraba en mi primer año de universidad estudiando contabilidad y un día por curiosidad (y también mucho aburrimiento) investigué sobre que era la programacion y sin planearlo, encontré lo que me gustaba y a lo que me quería dedicar en un futuro.</p>
