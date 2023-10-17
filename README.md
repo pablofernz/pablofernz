@@ -26,15 +26,10 @@
   <img src='https://i.ibb.co/pKB0hfr/mongoose-1-logo-png-transparent.png' width=40 height=40/> 
 </p>
 
-<h1>Estoy aprendiendo:
+ ### Tambien estoy aprendiendo:
 <p>
   <img src='https://cdn.worldvectorlogo.com/logos/nextjs-2.svg' width=40 height=40/>
   <img src='https://cdn.worldvectorlogo.com/logos/firebase-1.svg' width=40 height=40/>
   <img src='https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg' width=40 height=40/>
   <img src='https://cdn.worldvectorlogo.com/logos/framer-motion.svg' width=40 height=40/>
-  
 </p>
-<h1/>
-<div align="center">
-  <img src="https://github.com/pablofernz/pablofernz/assets/122618014/1a9b7b7f-158e-4f4a-a115-4f7eea527d19" alt="developer">
-</div>
