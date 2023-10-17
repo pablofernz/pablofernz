@@ -10,7 +10,7 @@
 <h1>¿A qué te dedicas actualmente?</h1>
 <p>Actualmente hago proyectos que me permitan seguir con mi formacion de programador, aprendiendo nuevas tecnologías y aplicandolas. </p>
 
-<h1>Las tecnologías que utilizo cotidianamente son:
+<h1>Las tecnologías que utilizo cotidianamente son: <h1/>
 <p>
   <img src='https://cdn.worldvectorlogo.com/logos/logo-javascript.svg' width=40 height=40/>
   <img src='https://cdn.worldvectorlogo.com/logos/html-1.svg' width=40 height=40/>
@@ -23,10 +23,8 @@
   <img src='https://cdn.freebiesupply.com/logos/large/2x/sequelize-logo-png-transparent.png' width=40 height=40/>
   <img src='https://cdn.worldvectorlogo.com/logos/postgresql.svg' width=40 height=40/>
   <img src='https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg' width=40 height=40/>
-  <img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Ftsed.io%2Ftutorials%2Fmongoose.html&psig=AOvVaw2Xkc-aTXmREO1AbPuufP_4&ust=1697646163622000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPiIjPa-_YEDFQAAAAAdAAAAABAE' width=40 height=40/> 
-  
+  <img src='https://i.ibb.co/pKB0hfr/mongoose-1-logo-png-transparent.png' width=40 height=40/> 
 </p>
-</h1>
 
 <h1>Estoy aprendiendo:
 <p>
