@@ -1,7 +1,8 @@
 
 ## console.log("Hello, World!")
-![developer](https://github.com/pablofernz/pablofernz/assets/122618014/1a9b7b7f-158e-4f4a-a115-4f7eea527d19)</h1>
-
+<div align="center">
+  <img src="https://github.com/pablofernz/pablofernz/assets/122618014/1a9b7b7f-158e-4f4a-a115-4f7eea527d19" alt="developer">
+</div>
 <h2>Mi nombre es Pablo Fernández, aqui en GitHub soy pablofernz</h2>
 
 <h1> Un poco de mi:</h1>
