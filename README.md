@@ -27,7 +27,7 @@
 </p>
 <p>Entre otras herramientas, tengo conocimientos en <b>Photoshop, Cinema4D, After Effects e Illustrator</b></p>
 
-## Tambien estoy aprendiendo:
+#### Tambien estoy aprendiendo:
 <p>
   <img src='https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png' width=40 height=40/>
   <img src='https://cdn.worldvectorlogo.com/logos/firebase-1.svg' width=40 height=40/>
@@ -35,7 +35,7 @@
   <img src='https://cdn.worldvectorlogo.com/logos/framer-motion.svg' width=40 height=40/>
 </p>
 
-#### Contacto:
-<p>No olvides contactarme si quieres colaborar en un proyecto que pueda satisfacer las necesidades de las personas</p>
+## Contacto:
+<h2>No olvides contactarme si quieres colaborar en un proyecto que pueda satisfacer las necesidades de las personas</h2>
 <b>Correo:</b> <p>pablodanyfer@gmail.com</p>
 <b>Linkedin:</b> <p>https://www.linkedin.com/in/pablo-fz1/</p>
