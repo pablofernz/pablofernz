@@ -37,5 +37,5 @@
 
 ## 📩 Contacto:
 <p>No olvides contactarme si quieres colaborar en un proyecto que pueda satisfacer las necesidades de las personas</p>
-<b>Correo:</b><a href="mailto:pablodanyfer@gmail.com">pablodanyfer@gmail.com</a>
+<b>Correo: </b> <p>pablodanyfer@gmail.com</p>
 <b>Linkedin:</b> <p>https://www.linkedin.com/in/pablo-fz1/</p>
