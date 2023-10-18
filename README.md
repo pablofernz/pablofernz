@@ -34,3 +34,8 @@
   <img src='https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg' width=40 height=40/>
   <img src='https://cdn.worldvectorlogo.com/logos/framer-motion.svg' width=40 height=40/>
 </p>
+
+#### Contacto:
+<p>No olvides contactarme si quieres colaborar en un proyecto que pueda satisfacer las necesidades de las personas</p>
+<b>Correo:</b> <p>pablodanyfer@gmail.com</p>
+<b>Linkedin:</b> <p>https://www.linkedin.com/in/pablo-fz1/</p>
