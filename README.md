@@ -8,7 +8,7 @@
 <p>También me apasiona todo lo relacionado con el apartado visual, tengo conocimientos en diseño gráfico por lo que puedo "expresarme" con mayor facilidad y aunque tenga cierta afinidad con el desarrollo Front-End, también me gusta mucho el desarrollo Back-End. </p>
 
 <h1>¿A qué me dedico actualmente?</h1>
-<p>Actualmente hago proyectos que me permitan seguir con mi formacion como programador, aprendiendo nuevas tecnologías y aplicandolas 🚀 </p>
+<p>Actualmente hago proyectos que me permitan seguir con mi formacion como programador, aprendiendo nuevas habilidades y aplicandolas de manera correcta🚀 </p>
 
 ### 💻 Tech skills:
 <p>
