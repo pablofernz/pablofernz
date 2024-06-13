@@ -24,6 +24,8 @@
   <img src='https://cdn.worldvectorlogo.com/logos/postgresql.svg' width=40 height=40/>
   <img src='https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg' width=40 height=40/>
   <img src='https://i.ibb.co/pKB0hfr/mongoose-1-logo-png-transparent.png' width=40 height=40/> 
+  <img src='https://cdn.worldvectorlogo.com/logos/framer-motion.svg' width=40 height=40/>
+   <img src='https://logowik.com/content/uploads/images/jest-js7858.logowik.com.webp' width=40 height=40/>
 </p>
 <p>Entre otras herramientas, tengo conocimientos en <b>Photoshop, Cinema4D, After Effects e Illustrator</b> 🤩</p>
 
