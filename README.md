@@ -3,7 +3,7 @@
 <p>Mi nombre es Pablo Fernández, aqui en GitHub soy pablofernz 👋🏻</p>
 
 <h1> Un poco de mi:</h1>
-<p>Soy de Argentina, tengo 20 años y aunque de niño me gustaban los videojuegos no me llamaba mucho la atención la programación ni nada por el estilo. Años mas tarde me encontraba en mi primer año de universidad estudiando contabilidad y un día por curiosidad (y también mucho aburrimiento) investigué sobre que era la programacion y sin planearlo, encontré lo que me gustaba y a lo que me quería dedicar en un futuro.</p>
+<p>Soy de Argentina, tengo 21 años y aunque de niño me gustaban los videojuegos no me llamaba mucho la atención la programación ni nada por el estilo. Años mas tarde me encontraba en mi primer año de universidad estudiando contabilidad y un día por curiosidad (y también mucho aburrimiento) investigué sobre que era la programacion y sin planearlo, encontré lo que me gustaba y a lo que me quería dedicar en un futuro.</p>
 
 <p>También me apasiona todo lo relacionado con el apartado visual, tengo conocimientos en diseño gráfico por lo que puedo "expresarme" con mayor facilidad y aunque tenga cierta afinidad con el desarrollo Front-End, también me gusta mucho el desarrollo Back-End. </p>
 
