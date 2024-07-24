@@ -19,11 +19,11 @@
   <img src='https://cdn.worldvectorlogo.com/logos/react-2.svg' width=40 height=40/>
   <img src='https://cdn.worldvectorlogo.com/logos/redux.svg' width=40 height=40/>
   <img src='https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg' width=40 height=40/>
-  <img src='https://i.ibb.co/zFrdxYc/icons8-express-js-50.png' width=40 height=40/>
+  <img src='https://res.cloudinary.com/dnrprmypf/image/upload/v1718818794/express_co7wsk.png' width=40 height=40/>
   <img src='https://cdn.freebiesupply.com/logos/large/2x/sequelize-logo-png-transparent.png' width=40 height=40/>
   <img src='https://cdn.worldvectorlogo.com/logos/postgresql.svg' width=40 height=40/>
   <img src='https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg' width=40 height=40/>
-  <img src='https://i.ibb.co/pKB0hfr/mongoose-1-logo-png-transparent.png' width=40 height=40/> 
+  <img src='https://res.cloudinary.com/dnrprmypf/image/upload/v1718823267/mongoose_jgco70.png' width=40 height=40 /> 
   <img src='https://cdn.worldvectorlogo.com/logos/framer-motion.svg' width=40 height=40/>
   <img src= 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20221110153201' width=40 heigth=40/>
  
