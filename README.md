@@ -26,7 +26,7 @@
   <img src='https://res.cloudinary.com/dnrprmypf/image/upload/v1718823267/mongoose_jgco70.png' width=40 height=40 /> 
   <img src='https://cdn.worldvectorlogo.com/logos/framer-motion.svg' width=40 height=40/>
   <img src= 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20221110153201' width=40 heigth=40/>
- 
+   <img src='https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg' width=40 height=40/>
 </p>
 <p>Entre otras herramientas, tengo conocimientos en <b>Photoshop, Cinema4D, After Effects e Illustrator</b> 🤩</p>
 
@@ -34,7 +34,6 @@
 <p>
   <img src='https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png' width=40 height=40/>
   <img src='https://cdn.worldvectorlogo.com/logos/firebase-1.svg' width=40 height=40/>
-  <img src='https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg' width=40 height=40/>
     <img src='https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png' width=40 height=40/>
 </p>
 
