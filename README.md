@@ -27,17 +27,23 @@
   <img src='https://cdn.worldvectorlogo.com/logos/framer-motion.svg' width=40 height=40/>
   <img src= 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20221110153201' width=40 heigth=40/>
    <img src='https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg' width=40 height=40/>
+    <img src='https://cdn.worldvectorlogo.com/logos/firebase-1.svg' width=40 height=40/>
+      <img src='https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/288_Sass-512.png' width=40 height=40/>
+        <img src='https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png' width=40 height=40/>
+  
 </p>
 <p>Entre otras herramientas, tengo conocimientos en <b>Photoshop, Cinema4D, After Effects e Illustrator</b> 🤩</p>
 
 #### 🔜 Tambien estoy aprendiendo :
 <p>
   <img src='https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png' width=40 height=40/>
-  <img src='https://cdn.worldvectorlogo.com/logos/firebase-1.svg' width=40 height=40/>
-    <img src='https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png' width=40 height=40/>
+  <img src='https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png' width=40 height=40/>
+
+  
 </p>
 
 ## 📩 Contacto:
 <p>No olvides contactarme si quieres colaborar en un proyecto que pueda satisfacer las necesidades de las personas</p>
 <b>Correo: </b> <p>pablodanyfer@gmail.com</p>
 <b>Linkedin:</b> <p>https://www.linkedin.com/in/pablo-fz1/</p>
+<b>Portfolio:</b> <p>https://pablofernz.vercel.app</p>
