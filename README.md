@@ -38,7 +38,9 @@
 <p>
   <img src='https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png' width=40 height=40/>
   <img src='https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png' width=40 height=40/>
-
+  <img src='https://user-images.githubusercontent.com/30929568/119165576-42d60c80-ba7b-11eb-95ce-c61b12a97edf.png' width=40 height=40/>
+  <img src='https://freepngimg.com/icon/download/search/6652-nest-js.png' width=40 height=40/>
+  <img src='https://cdn.freebiesupply.com/logos/large/2x/java-14-logo-png-transparent.png' width=40 height=40/>
   
 </p>
 
