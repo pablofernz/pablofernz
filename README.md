@@ -55,7 +55,6 @@
   <img src='https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png' width=40 height=40/>
   <img src='https://cdn.freebiesupply.com/logos/large/2x/java-14-logo-png-transparent.png' width=40 height=40/>
   <img src='https://res.cloudinary.com/dnrprmypf/image/upload/v1738448024/docker-mark-blue_krwq6h.png' width=40 height=40/>
-  <img src='https://static-00.iconduck.com/assets.00/kubernetes-icon-2048x1995-r1q3f8n7.png' width=40 height=40/>
 </p>
 
 ## 📩 Contacto:
