@@ -41,6 +41,7 @@
   <img src='https://user-images.githubusercontent.com/30929568/119165576-42d60c80-ba7b-11eb-95ce-c61b12a97edf.png' width=40 height=40/>
   <img src='https://freepngimg.com/icon/download/search/6652-nest-js.png' width=40 height=40/>
   <img src='https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png' width=40 height=40/>
+  <img src='https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/socket-io-icon.png' width=40 height=40/>
   </p>
 
   <b>Dev-Ops</b>
@@ -55,7 +56,6 @@
   <img src='https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png' width=40 height=40/>
   <img src='https://cdn.freebiesupply.com/logos/large/2x/java-14-logo-png-transparent.png' width=40 height=40/>
   <img src='https://res.cloudinary.com/dnrprmypf/image/upload/v1738448024/docker-mark-blue_krwq6h.png' width=40 height=40/>
-  <img src='https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/socket-io-icon.png' width=40 height=40/>
 </p>
 
 ## 📩 Contacto:
