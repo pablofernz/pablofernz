@@ -14,7 +14,7 @@
 
 <b>Front-End</b>
 <p>
-  <img src='https://cdn.worldvectorlogo.com/logos/logo-javascript.svg' width=40 height=40/>
+  <img src='https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg' width=40 height=40/>
   <img src='https://cdn.worldvectorlogo.com/logos/html-1.svg' width=40 height=40/>
   <img src='https://cdn.worldvectorlogo.com/logos/css-3.svg' width=40 height=40/>
   <img src='https://cdn.worldvectorlogo.com/logos/react-2.svg' width=40 height=40/>
